@@ -1,2 +1,4 @@
-# my_laravel_-pay
-laravel packagist --pay laravel 支付包
+#my/my_pay
+
+my_packagist
+

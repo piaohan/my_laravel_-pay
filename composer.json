@@ -1,0 +1,10 @@
+{
+    "name": "my/my_pay",
+    "type": "php",
+    "license": "MIT",
+    "authors": [{
+        "name": "piaohan",
+        "email": "whatissrc@gmail.com"
+    }],
+    "require": {}
+}
